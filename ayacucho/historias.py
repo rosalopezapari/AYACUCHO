@@ -1,0 +1,75 @@
+"""Historias de Ayacucho, Perú."""
+
+HISTORIAS = [
+    {
+        "titulo": "Fundación de Huamanga",
+        "contenido": [
+            "Ayacucho fue fundada el 4 de octubre de 1540 con el nombre de",
+            "'San Juan de la Frontera de Huamanga'.",
+            "",
+            "Su nombre quechua, Huamanga, significa 'lugar donde se encrespa el",
+            "halcón' (waman = halcón, ka = lugar).",
+            "",
+            "Se emplaza a 2,761 m.s.n.m. en un valle fértil, rodeada por las",
+            "estribaciones de la cordillera de los Andes del centro-sur peruano.",
+            "",
+            "En 1825 el libertador Simón Bolívar la rebautizó como Ayacucho,",
+            "en homenaje a la batalla que selló la independencia en la llanura",
+            "cercana.",
+        ],
+    },
+    {
+        "titulo": "La Batalla de Ayacucho",
+        "contenido": [
+            "El 9 de diciembre de 1824 se libró la batalla decisiva por la",
+            "independencia de Sudamérica en la Pampa de Ayacucho.",
+            "",
+            "El ejército patriota, comandado por Antonio José de Sucre, derrotó al",
+            "ejército realista del virrey José de la Serna.",
+            "",
+            "Con esa victoria quedó sellada la independencia del Perú y del resto",
+            "de Sudamérica, acabando con tres siglos de dominio español.",
+            "",
+            "Hoy, un obelisco blanco recuerda la gesta en medio de la pampa.",
+        ],
+    },
+    {
+        "titulo": "La Ciudad de las 33 Iglesias",
+        "contenido": [
+            "Ayacucho es conocida como 'La Ciudad de las 33 Iglesias' por la",
+            "gran cantidad de templos coloniales construidos entre los siglos XVI",
+            "y XVIII.",
+            "",
+            "Cada iglesia guarda retablos, púlpitos tallados y obras de arte",
+            "religioso únicas, hechas con piedra Huamanga y madera andina.",
+            "",
+            "La Semana Santa ayacuchana, declarada Patrimonio Cultural de la Nación,",
+            "mueve a miles de fieles por estas calles durante abril.",
+        ],
+    },
+    {
+        "titulo": "El conflicto interno y la resiliencia",
+        "contenido": [
+            "Ayacucho fue el epicentro del conflicto armado interno del Perú",
+            "(1980-2000).",
+            "",
+            "La violencia dejó una profunda huella en la región, pero también una",
+            "lección de memoria, verdad y reconciliación.",
+            "",
+            "Hoy existen museos y sitios de memoria (como el Lugar de la Memoria)",
+            "que narran esa etapa para que no se repita.",
+        ],
+    },
+    {
+        "titulo": "Ayacucho hoy",
+        "contenido": [
+            "Ayacucho es una ciudad universitaria, cultural y turística.",
+            "",
+            "Mantiene viva la tradición artesanal: la piedra Huamanga, los",
+            "retablos y el tejido andino son reconocidos en el mundo.",
+            "",
+            "Su Plaza Mayor, sus 33 iglesias y su gastronomía de altura la",
+            "convierten en un destino imprescindible del Perú andino.",
+        ],
+    },
+]
